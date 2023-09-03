@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @afridixD
+- 👋 Hi, I’m Afridi.
 - 👀 I’m interested in coding, sketching, skatboarding, reading books etc.
 - 🌱 I’m currently learning C++ and Unity
 
